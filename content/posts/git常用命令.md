@@ -2,6 +2,9 @@
 title: "Git常用命令"
 date: 2020-05-25T14:00:44+08:00
 draft: false
+tags: ["git"]
+series: ["git"]
+categories: ["git"]
 ---
 ## git
 ### git 六行配置
